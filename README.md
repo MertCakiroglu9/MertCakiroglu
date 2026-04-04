@@ -1,16 +1,100 @@
-## Hi there 👋
-
-<!--
-**MertCakiroglu9/MertCakiroglu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-04-04T16:08:20.488Z",
+  "profile": {
+    "title": "MertCakiroglu9",
+    "subtitle": "Software Developer | 7+ Programming Languages | Backend & Systems",
+    "currentWork": "Currently working on building a hackathon project and developing a full-stack web application",
+    "currentLearn": "Currently learning advanced backend development and scalable system design",
+    "collaborateOn": "Looking to collaborate on backend projects and scalable web applications",
+    "helpWith": "Looking for help with advanced backend development and system design",
+    "ama": "Ask me about backend development, APIs, and software engineering",
+    "contact": "merttcakirogluu@hotmail.com",
+    "funFact": "I turn coffee into code",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://github.com/MertCakiroglu9",
+    "blog": "https://medium.com/@merttcakirogluu",
+    "resume": "https://docs.google.com/document/d/1lObrRQCYcxu1Wy6Gc94EdmJdHrUoA76z/edit"
+  },
+  "social": {
+    "github": "MertCakiroglu9",
+    "dev": "Mertcakirogluu9",
+    "linkedin": "Mert Çakıroğlu",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "@merttcakirogluu",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "@mertcakiroglu9",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "arduino",
+    "c",
+    "csharp",
+    "css3",
+    "flutter",
+    "html5",
+    "illustrator",
+    "java",
+    "javascript",
+    "linux",
+    "photoshop",
+    "php",
+    "python",
+    "sqlite"
+  ]
+}
